@@ -1,0 +1,9 @@
+.app{
+    display:flex;
+    justify-content: center;
+    align-self: center;
+    min-height:100vh;
+    background-image: url(https://media.istockphoto.com/id/1461317232/es/foto/sol-en-el-campo-con-dientes-de-le%C3%B3n-en-flor-en-el-parque-natural.webp?b=1&s=170667a&w=0&k=20&c=r20kC6rmhpxC1PdpB3cCEhqPucAfI4p45Okw2ij6mHA=);
+    background-position: center;
+    background-size: cover;
+}
