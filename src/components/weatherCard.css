@@ -1,10 +1,13 @@
 .weather{
     background-color: #fff9;
+    align-items: center;
+    margin: auto;
     padding: 2em 2em 2.5em ;
     border-radius: 0.8em;
     max-width: 340px;
     width: 100%;
     align-items: center;
+  
 }
 .weather_tittle{
     font-size: 1.4rem;
@@ -14,7 +17,7 @@
 
 .weather_subtitle{
     font-size: 1rem;
-    text-align: center;
+    text-align: justify;
     font-weight: 500;   
     margin-bottom: 1em;
 }
